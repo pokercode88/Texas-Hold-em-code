@@ -1,7 +1,7 @@
 # Texas-tournament-source-code_Texas-intellectual-competition-app
 德州扑克源码，德州赛事app，德州CPG，德州TJPT源码，德州线下比赛打门票，德州线上赛事源码；TG：@alibabama401或邮箱：ttpoker40@gmail.com
 
-如果你的银子买不起全套，也可以单独出售客户端或服务器的源码以便学习参考；
+
 
 ![兑换01](https://github.com/user-attachments/assets/084b38f8-810e-4ecd-ad29-baaaaadf39b9)
 ![电子票-标注](https://github.com/user-attachments/assets/c7c2e94f-3ac9-4498-bbcc-7767b210a8e5)
